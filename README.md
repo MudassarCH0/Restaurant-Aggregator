@@ -14,7 +14,7 @@ Zomato is a multinational restaurant aggregator and food delivery company. Zomat
 1. Data Processing: explore data, backup data, clean data, filter data, decomposition plan, data visualization mockups
 2. Key Performance Indicators (KPIs): Popular Restaurant per City, Food Preference, Overall Sales, Popular Items, Sales per Items, Popular Item Sales per City, Weekday Sales, Average Check per Restaurant, Satisfied Customers per Restaurant, Unsatisfied Customers per Restaurant, Customer Repeat Rate, Highest Sales per Restaurants
 3. Visualization: KPI card, Line Chart, Bar Chart, Bar Chart, Pie Chart, Table
-4. Recommendation
+4. Project Report
 
 
 **Tools & Dataset**<br>
