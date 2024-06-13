@@ -6,6 +6,7 @@
 
 
 **Project Description**<br>
+
 Zomato is a multinational restaurant aggregator and food delivery company. Zomato BI Analytics team usually does three types of analysis, Customer Analysis Segmentation, Restaurant Analysis, and Sales Analysis. Was responsible for Restaurant Analysis. Project involved testing hypothesis such as, What restaurants are popular? What restaurants generate the highest revenue? Why?  
 
 
