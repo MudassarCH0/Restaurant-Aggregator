@@ -7,7 +7,9 @@
 
 **Project Description**<br>
 
-Zomato is a multinational restaurant aggregator and food delivery company. Zomato BI Analytics team usually does three types of analysis, Customer Analysis Segmentation, Restaurant Analysis, and Sales Analysis. Was responsible for Restaurant Analysis. Project involved testing hypothesis such as, What restaurants are popular? What restaurants generate the highest revenue? Why?  
+Supernova is an insurance company in Toronto, Ontario. Supernova specializes in serving Small and Mid-Sized Enterprises (SMEs). Supernova use team of experts to recognize needs of businesses and provides tailored services to ensure comprehensive coverage and unparalleled support. Supernova specailizes in personal and business services, contractor packages, health service packages, retail packages, and wohlesaler packages. 
+
+Project 
 
 
 **Project Execution Steps**
