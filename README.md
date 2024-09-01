@@ -19,11 +19,11 @@ Zomato is a multinational restaurant aggregator and food delivery company. As an
 * Tools: Power BI
 * Zomato Data
   * five files used
-    * user (user_id), name, age, gender, marital status, occupation, monthly income, education, family size
-    * orders (user_id, r_id), currency, sales_amount, sales_qty, order_date
-    * menu (menu_id, r_id, f_id), cuisine, price
-    * resturant (id->r_id), name, city, state, rating, rating_count, cost, cuisine
-    * food (f_id), item, veg_or_non_veg
+    * user: user_id, name, age, gender, marital status, occupation, monthly income, education, family size
+    * orders: user_id, r_id, currency, sales_amount, sales_qty, order_date
+    * menu: menu_id, r_id, f_id, cuisine, price
+    * resturant: id, name, city, state, rating, rating_count, cost, cuisine
+    * food: f_id, item, veg_or_non_veg
   * Entity Diagram <br> ![image](https://github.com/user-attachments/assets/99477fa1-5be1-4825-ad50-fd5d536acce9)
 
 
