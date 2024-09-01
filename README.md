@@ -11,7 +11,7 @@
 \
 ***Description***<br>
 
-Project involved review for landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The goal was to figure out what are the key factors that play into the success of a Shopify app.   
+Zomato is a multinational restaurant aggregator and food delivery company. As an on-boarding BIA, the goal was to analyze the business performance of restaurants and test hypothesis, such as what restaurants are popular? what restaurants generate the highest revenue? why?.     
 
 \
 ***Tools & Dataset***<br>
@@ -24,6 +24,12 @@ Project involved review for landscape of apps on the Shopify platform, using dat
     * orders
     * restaurant
     * users 
+  * Four files used
+    * user (user_id), name, age, gender, marital status, occupation, monthly income, education, family size
+    * orders (user_id, r_id), currency, sales_amount, sales_qty, order_date
+    * menu (menu_id, r_id, f_id), cuisine, price
+    * resturant (id->r_id), name, city, state, rating, rating_count, cost, cuisine
+    * food (f_id), item, veg_or_non_veg
   * Entity Diagram <br> ![image](https://github.com/user-attachments/assets/99477fa1-5be1-4825-ad50-fd5d536acce9)
 
 
