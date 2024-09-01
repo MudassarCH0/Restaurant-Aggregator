@@ -18,8 +18,8 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 
 * Tools: Power BI
 * Zomato Data
- * five source files
-   * food
+  * five source files
+  * food
     * menu
     * orders
     * restaurant
