@@ -18,7 +18,7 @@ Zomato is a multinational restaurant aggregator and food delivery company. As an
 
 * Tools: Power BI
 * Zomato Data
-  * five files used
+  * source files
     * user: user_id, name, age, gender, marital status, occupation, monthly income, education, family size
     * orders: user_id, r_id, currency, sales_amount, sales_qty, order_date
     * menu: menu_id, r_id, f_id, cuisine, price
@@ -30,24 +30,26 @@ Zomato is a multinational restaurant aggregator and food delivery company. As an
 \
 ***Execution***<br>
 
-* Data Processing: explore data, backup data, clean data, filter data, decomposition plan, data visualization mockups
+* Data Processing: explore data, backup data, clean data, filter data, alter data
 * Key Performance Indicators (KPIs): Popular Restaurant per City, Food Preference, Overall Sales, Popular Items, Sales per Items, Popular Item Sales per City, Weekday Sales, Average
   Check per Restaurant, Satisfied Customers per Restaurant, Unsatisfied Customers per Restaurant, Customer Repeat Rate, Highest Sales per Restaurants
 * Visualization: KPI card, Line Chart, Bar Chart, Bar Chart, Pie Chart, Table
-* Process: found types of apps that are out there, created DAX column with review weigh values, DAX column with average developer review values, new table with many-to-one, filter to
-  select review count greater than 500
+* Process: developed decomposition plan, created visualization mockups, joins, filters, calculated fields, containers, used 500+ rating to set popularity level, order count to select
+  popular items among restaurants, customer satisfaction count for restaurant performance
 
 \
 ***Results***<br>
 
-* Weekly reviews stay the same with 4 to 5 ratings
-* Average review weigh was 5.48
-* More than half of the developers had more than 50k reviews
+* 50% more veg customers than non-veg customers
+* Most popular restaurants had similar items
+* Highest revenue correlated regions
+* Weekly deals also added to highest revenue
 
 \
 ***Recomnendation***<br>
-* Apps with high review count have greater success
-* To measure success new apps should have weekly review count between 35K to 50K<br><br> 
+* Increase in weekly deals can lead to more revenue
+* Restaurants is busiest regions can generate more revenue
+* Restaurant should survey service for every order to rank restaurant popularity 
 
 > [!Note]
 > [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/FinalProject_17173229631950/NotesIStoryline)
