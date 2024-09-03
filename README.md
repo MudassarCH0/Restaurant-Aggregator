@@ -16,7 +16,7 @@ Zomato is a multinational restaurant aggregator and food delivery company. As an
 \
 ***Tools & Dataset***<br>
 
-* Tools: Power BI
+* Tools: Tableau
 * Zomato Data
   * source files
     * user: user_id, name, age, gender, marital status, occupation, monthly income, education, family size
