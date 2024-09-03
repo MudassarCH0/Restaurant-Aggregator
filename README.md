@@ -5,7 +5,7 @@
 * Tools & Data
 * Execution
 * Result
-* Recommenation
+* Recommendation
 * Project Link  
 
 \
