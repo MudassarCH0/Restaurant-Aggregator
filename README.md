@@ -50,7 +50,7 @@ Zomato is a multinational restaurant aggregator and food delivery company. As an
 ***Recomnendation***<br>
 * Increase in weekly deals can lead to more revenue
 * Restaurants is busiest regions can generate more revenue
-* Restaurant should survey service for every order to rank restaurant popularity 
+* Restaurant should survey service for every order to rank restaurant popularity<br><br> 
 
 > [!Note]
 > [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/FinalProject_17173229631950/NotesIStoryline)
