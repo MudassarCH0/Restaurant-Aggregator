@@ -1,12 +1,12 @@
 
-***Table of Contents***<br>
+***Table of Content***<br>
 
 * Description
-* Tools & Dataset
+* Tools & Data
 * Execution
-* Results
+* Result
 * Recommenation
-* Link  
+* Project Link  
 
 \
 ***Description***<br>
@@ -14,10 +14,11 @@
 Zomato is a multinational restaurant aggregator and food delivery company. As an on-boarding BIA, the goal was to analyze the business performance of restaurants and test hypothesis, such as what restaurants are popular? what restaurants generate the highest revenue? why?.     
 
 \
-***Tools & Dataset***<br>
+***Tools & Data***<br>
 
-* Tools: Tableau
-* Zomato Data
+* Tools
+  * Tableau
+* Data
   * source files
     * user: user_id, name, age, gender, marital status, occupation, monthly income, education, family size
     * orders: user_id, r_id, currency, sales_amount, sales_qty, order_date
@@ -38,7 +39,7 @@ Zomato is a multinational restaurant aggregator and food delivery company. As an
   popular items among restaurants, customer satisfaction count for restaurant performance
 
 \
-***Results***<br>
+***Result***<br>
 
 * 50% more veg customers than non-veg customers
 * Most popular restaurants had similar items
