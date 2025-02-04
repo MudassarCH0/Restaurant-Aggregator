@@ -11,7 +11,7 @@
 \
 ***Description***<br>
 
-Zomato is a multinational restaurant aggregator and food delivery company. As an on-boarding BIA, the goal was to analyze the business performance of restaurants and test hypothesis, such as what restaurants are popular? what restaurants generate the highest revenue? why?.     
+Zomato is a multinational restaurant aggregator and food delivery company. As an on-boarding BIA, the goal was to analyze the business performance of restaurants and test hypothesis, such as what restaurants are popular? what restaurants generate the highest revenue? why?     
 
 \
 ***Tools & Data***<br>
